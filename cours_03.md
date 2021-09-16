@@ -11,8 +11,9 @@ Un animateur utilise des logiciels pour donner vie à des personnages (qui ont �
 ### Emploi 3 - Concepteur sonore
 Un concepteur sonore à la responsabilité de concevoir, élaborer, réaliser et produire des extraits sonores pour accompagner une productions, souvent audiovisuelle. Un concepteur peut travailler dans le cinéma, la télévison, la radio, etc... Pour pratiquer ce métier il faut avoir un sens du rythme, une aptitude à travailler en équipe, une très bonne acuité auditive et une facilité a travailler sous pression. La musique n'est pas nécessairement quelque chose qui m'intéresse tant que ca, mais je trouve que le mixage de son est vraiment intriguant. Comme je l'ai mentionné pour l'emploi 1, travailler sous pression n'est pas vraiment l'idéal pour moi même si je sais que la plupart des métiers vont avoir des moments de stress.
 
-### Emploi 4 - Identification
-4 à 5 lignes
+### Emploi 4 - Programmateur web
+Le programmateur web est celui qui construit, améliore et modifie des pages et des sites webs à l'aide des languages web. Certaines de ces tâches son de concevoir la navigation sur les sites webs, cerner et communiquer les problèmes techniques ainsi que les procédures et solutions applicables ou encore effectuer différents tests sur les produits et des services informatiques. Pour ce métier, il faut avoir une bonne autonomie et ouverture d'esprit 
+
 
 ### Emploi 5 - Identification
 4 à 5 lignes
