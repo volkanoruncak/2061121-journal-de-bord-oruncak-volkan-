@@ -2,10 +2,10 @@
 ## Rétrospective de la présentation 1
 
 ### Points forts
-Nommer deux points forts de votre présentation. 
+Je trouve que j'avais une assez belle présentation visuelle et une bonne structure aussi. 
 
 ### Points à améliorer
-Nommer deux points à améliorer de votre présentation et expliquer comment vous allez les travailler pour les prochaines présentations. 
+Essayer de moins stresser pour être capable de parler plus clairement et aussi pour pouvoir parler plus fort. Pour les présentations à venir, je vais travailler à l'avance et plus pratiquer pour être plus à l'aise devant la classe.
 
 ### Présentation préférée
-Quelle présentation avez-vous préféré et pourquoi? 
+Je ne m'en rappelle plus vraiment des présentations des autres éléves, mais la plupart du monde avait fait un bon travail.
