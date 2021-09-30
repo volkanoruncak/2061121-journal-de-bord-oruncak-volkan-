@@ -2,19 +2,20 @@
 ## Plan de présentation
 
 ### Présentation
-Parlez de vous. 
+J'ai fait une session en ligne en commerce et je recommence en multimédia.
+j'aime l'art, regarder __Netflix/Youtube__ et la musique
 
 ### Intérêts dans le domaine
-Parlez de vos intérêts en multimédia. 
+Photographie, modificitation de photo (__Photohop__), animation et video editing
 
 ### Emplois qui vous intéressent
-Nommez deux emplois.
+Artiste graphique et animateur
 
 ### Identification
-Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
+David Meyers parce que j'aime le style qu'il a comme directeur de vidéo clip.
 
 ### Dans 5 ans
-Où vous voyez-vous dans 5 ans? 
+Soit sur le marché du travail ou je ne sais pas encore.
 
 ### Projets
-Expliquez un ou des projets que vous aimeriez faire. 
+Rain room
