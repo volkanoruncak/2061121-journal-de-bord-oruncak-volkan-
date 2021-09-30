@@ -3,10 +3,10 @@
 
 ### Présentation
 J'ai fait une session en ligne en commerce et je recommence en multimédia.
-j'aime l'art, regarder __Netflix/Youtube__ et la musique
+j'aime l'art, regarder _Netflix/Youtube_ et la musique
 
 ### Intérêts dans le domaine
-Photographie, modificitation de photo (__Photohop__), animation et video editing
+Photographie, modificitation de photo (_Photohop_), animation et video editing
 
 ### Emplois qui vous intéressent
 Artiste graphique et animateur
