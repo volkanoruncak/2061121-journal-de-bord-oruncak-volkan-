@@ -1,9 +1,10 @@
 # Cours 8
 ## Création de palette de couleur
-https://coolors.co/960200-001011-ffd23f-e1a48e-c4cea1
+![palette_presentation02](https://user-images.githubusercontent.com/89608117/142257369-60b9ee9e-289f-4687-a00e-1e8e7cb4fd4d.png)
 
 ## Choix d'un thème 
 #### Outil de présentation:    
 Thème 1 | Thème 2 | Thème 3
 --| -- | --
 Organic | Wood Type | Facet 
+
