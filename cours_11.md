@@ -6,7 +6,7 @@ Durée: 5 à 7 minutes
 Farmer’s Dynasty offre une expérience de jeu qui est de type jeu de rôle et de stimulation sur la vie agricole. Dont le fond, on peut expériencer la vie d’un fermier en par exemple réparant sa ferme, prenant soins des animaux et des plantes pour par la suite récolter des légumes et vendre ses produits. On peut aussi interagir avec d’autres personnages et même avoir la possibilité de créer des relations avec eux. On a aussi la possibilité de conduire diffèrent véhicule comme des tracteurs ou d’autres machines agricoles et il y aussi un drone que l’on peut contrôler pour avoir une vue aérienne de la ferme. Le jeu offre aussi des missions qui sont à compléter. 
 
 ### Carte heuristique
-![carte_heuristique_farmers](https://user-images.githubusercontent.com/89608117/142257914-2b2243d8-3499-4dd4-95bb-d0080eb18aa1.png)
+![Carte heuristique](images/carte_heuristique_farmers.png)
 
 
 ### Technologies
