@@ -4,7 +4,9 @@
 ### Lien 1 
 https://www.apple.com/iphone-12-pro/
 
-J'ai choisi le lien vers le site d'___Apple___, en particulier la page de présentation de l'iPhone 12 Pro parce que j'aime beaucoup l'animation de la page qui présente les différentes caractéristiques du produit.
+(Quand j'avais écris dans le cours 2 la page du lien avait beaucoup plus d'animation comme la page de l'iPhone 13)
+
+J'ai choisi le lien vers le site d'___Apple___, en particulier la page de présentation de l'iPhone 12 Pro parce que j'aime beaucoup la façon dont les éléments qui représente les différentes caractéristiques du produit s'intégrent dans la page pendant qu'on glisse à travers la page.
 
 ### Lien 2 
 https://www.pinterest.ca/
