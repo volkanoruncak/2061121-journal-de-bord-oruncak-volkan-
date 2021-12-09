@@ -1,8 +1,4 @@
 # Cours 1
 
 ## Pourquoi j'ai choisi l'intégration multimédia
-J'ai choisi le programme TIM parce qu'au secondaire, j'ai fait trois ans de multimédia et j'aimais vraiment les projets qu'on avait à faire. Aussi parce que je ne sait pas vraiment quel genre de métier je veux dans le futur donc je me suis dit pourquoi pas aller dans un domaine que j'ai aimé faire pendant quelques années. J'ai aussi choisi cette technique parce que je ne voulais pas aller à l'Université.
-Ce qui m'intéresse le plus du programme c'est vraiment tous ce qui est en rapport avec le __montage vidéo__ et la __modification de photo__ en particulier avec le logiciel _Photoshop_. J'ai aussi hâte d'apprendre le __graphisme__ surtout pour créer des sites web. J'ai aussi un intérêt pour la __photographie__.
-
-
-
+J'ai choisi le programme TIM parce qu'au secondaire, j'avais fait trois ans de multimédia et j'avais vraiment aimé les projets qu'on avait à faire principalement ce qu'on avait fait avec _Photoshop_. J'ai aussi choisi ce programme parce que je ne sait pas vraiment quel genre de métier je veux faire dans le futur donc je me suis dit pourquoi pas aller dans un domaine que j'ai aimé faire pendant quelques années. Le progamme TIM était aussi convénient pour moi vu que c'est une technique et je pense probablement pas aller à l'université. Ce qui m'intéresse le plus du programme c'est vraiment tous ce qui est en rapport avec le __montage vidéo__ et la __modification de photo__ en particulier avec le logiciel _Photoshop_. J'ai aussi hâte d'apprendre le __graphisme__ surtout pour créer des sites web. J'ai aussi un intérêt pour la __photographie__.
