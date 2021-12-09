@@ -4,14 +4,14 @@
 ### Lien 1 
 https://www.apple.com/iphone-12-pro/
 
-(Quand j'avais écris dans le cours 2 la page du lien avait beaucoup plus d'animation comme la page de l'iPhone 13)
+(Quand j'avais écris dans le cours 2 la page du lien avait beaucoup plus d'animation, mais elle est semblable à celle de l'iPhone 13.)
 
 J'ai choisi le lien vers le site d'___Apple___, en particulier la page de présentation de l'iPhone 12 Pro parce que j'aime beaucoup la façon dont les éléments qui représente les différentes caractéristiques du produit s'intégrent dans la page pendant qu'on glisse à travers la page.
 
 ### Lien 2 
 https://www.pinterest.ca/
 
-Pinterest est sûrement l'un de mes sites préférés pour trouver des photos pour quelconque raison. Je l'utilise aussi pour avoir de l'inspiration pour différentes raisons comme une tenue vestimentaire, la décoration d'une pièce ou encore des idées de recette. 
+Pinterest est sûrement l'un de mes sites préférés pour trouver des photos de l'inspiration parce que je trouve qu'il y a tellement de sujet de photos différentes que c'est presque impossible d'avoir zéro inspirations pour un projet par exemple. La majorité des phots sont esthétiquement plaisante donc c'est un plus.
 
 ### Lien 3 
 https://www.youtube.com/watch?v=ffxKSjUwKdU
