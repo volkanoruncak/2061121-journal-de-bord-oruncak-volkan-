@@ -2,7 +2,7 @@
 ## Rétrospective de la présentation 1
 
 ### Points forts
-Je trouve que j'avais une assez belle présentation visuelle et une bonne structure aussi. 
+Je trouve que j'avais une assez belle présentation visuellement et une bonne structure aussi. 
 
 ### Points à améliorer
 Essayer de moins stresser pour être capable de parler plus clairement et aussi pour pouvoir parler plus fort. Pour les présentations à venir, je vais travailler à l'avance et plus pratiquer pour être plus à l'aise devant la classe.
