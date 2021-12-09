@@ -26,4 +26,4 @@ J'ai choisi le lien vers le documentaire de la tournée mondiale ___"Sweetener W
 ### Lien 5 : Exposition à la SAT (Choisir une des installations)
 Ying Gao (CA/QC) — "Purple Skin, Oliver, Flowing Water, Standing Time"
 
-Cette installion dans l'exposition était ma préférée même si elle était un peu simple parce que je trouve que les créations véstimentaires avant-gardistes sont très intriguantes. J'avais aussi vraiment aimé le choix de matériel pour les tenues était vraiment attrayant.
+Cette installation dans l'exposition était ma préférée même si elle était un peu simple parce que je trouve que les créations véstimentaires avant-gardistes sont très intriguantes. J'avais aussi vraiment aimé le choix du matériel pour les tenues parce que c'était vraiment attrayant.
