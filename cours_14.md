@@ -15,11 +15,11 @@ Expliquer le déroulement de votre expérience grâce à un schéma narratif ou 
 ![moodboard-presentation03](images/moodboard_presentation03.jpg) 
 
 ### Technologies
-Décrivez quelles seront les technologies utilisées dans votre projet. 
+Modélisation 3D, Javascript
 
 ### Étapes de réalisation
-1. Création d'une maquette 2d 
-2. La transformer en 3d
+1. Création d'une maquette 2D
+2. La transformer en 3D
 3. Ajouter de la texture, couleur, lumière, etc...
 4. Créer les animations
 5. Ajouter les détails de finition
