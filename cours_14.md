@@ -3,7 +3,7 @@
 Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
-Résumer le projet en une phrase concise.   
+Nous voulons proposer la création d'une nouvelle dimension pour le jeu Minecraft
 
 ### Description du projet 
 Décrivez les grandes lignes de votre projet. 
