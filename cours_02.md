@@ -16,12 +16,12 @@ Pinterest est sûrement l'un de mes sites préférés pour trouver des photos de
 ### Lien 3 
 https://www.youtube.com/watch?v=ffxKSjUwKdU
 
-Comme troisième lien, j'ai choisi le vidéo clip ___"no tears left to cry"___ de la chanteuse Ariana Grande parce que j'adore les effets spéciaux/animations et le montage de ce vidéo clip. Par exemple, au tout début de la vidéo, l'animation avec les
+Comme troisième lien, j'ai choisi le vidéo clip ___"no tears left to cry"___ de la chanteuse Ariana Grande parce que j'adore les effets spéciaux/animations et le montage de ce vidéo clip. Par exemple, au tout début de la vidéo, les animations avec les bâtiments qui tournent pendant que la caméra tourne et sont vraiment bien faites.
 
 ### Lien 4 
 https://www.netflix.com/ca-fr/title/81238721
 
-J'ai choisi le lien vers le documentaire de la tournée mondiale ___"Sweetener World Tour"___ d'Ariana Grande parce que je trouve que le décor animé du concert était très intéressant et aussi tout les différents jeux de lumières présentent durant la performance.
+J'ai choisi le lien vers le documentaire de la tournée mondiale ___"Sweetener World Tour"___ d'Ariana Grande parce que je trouve que le décor visuel animé avec le demi-cercle au milieu du concert était très intéressant et aussi tous les différents jeux de lumières qui sont présent durant la performance.
 
 ### Lien 5 : Exposition à la SAT (Choisir une des installations)
 Ying Gao (CA/QC) — "Purple Skin, Oliver, Flowing Water, Standing Time"
