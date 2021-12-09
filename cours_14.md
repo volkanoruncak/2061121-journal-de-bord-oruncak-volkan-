@@ -12,8 +12,7 @@ Le jeu __Minecraft__ comprend trois différentes dimensions. L'«_Overworld_» (
 Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 
 
 ### Moodboard
-![moodboard-presentation03](images/moodboard_presentation03) 
-
+![moodboard-presentation03](images/moodboard_presentation03.jpg) 
 
 ### Technologies
 Décrivez quelles seront les technologies utilisées dans votre projet. 
