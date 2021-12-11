@@ -9,7 +9,7 @@ Nous voulons proposer la création d'une nouvelle dimension pour le jeu __Minecr
 Le jeu __Minecraft__ comprend trois différentes dimensions. L'«_Overworld_» (la dimension normale), le «_Nether_» (une dimension comparable à l'enfer) et l'«_End_» (une dimension qui ne représente quelque chose en précis, mais c'est en principe une gigangteste île dans le vide un peu comme dans l'espace). Nous nous sommes dit, vu que le jeu a une dimension qui ressemble à l'enfer, pourquoi pas faire une dimension qui ressemble au paradis en incluant des nouvelles textures, des effets spéciaux tant visuelle que sonore, des créatures fantastiques, etc...
 
 ### Schéma du projet ou scénarimage
-Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 
+![snéarimage](images/scenarimage_presentation03.jpg)
 
 ### Moodboard
 ![moodboard-presentation03](images/moodboard_presentation03.jpg) 
